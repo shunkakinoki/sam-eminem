@@ -1,0 +1,1 @@
+curl -d "{\"url\":\"https://cdn.shunkakinoki.com/static/home/images/pic.jpg\"}"     -H "Content-Type: application/json"     -X POST https://ioi6r567of.execute-api.us-west-2.amazonaws.com/Prod/invocations/
